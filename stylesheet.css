@@ -1,4 +1,60 @@
 main img{
     width: 100%;
     margin-bottom: 0;
+    box-sizing: border-box;
+}
+.pic1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.pic2{
+    position: absolute;
+    top: 1600px;
+    left: 0;
+}
+.pic3{
+    position: absolute;
+    top: 2950px;
+    left: 0;
+}
+.pic4{
+    position: absolute;
+    top: 4150px;
+    left: 0;
+}
+.pic5{
+    position: absolute;
+    top: 5150px;
+    left: 0;
+}
+.pic6{
+    position: absolute;
+    top: 6440px;
+    left: 0;
+}
+.pic7{
+    position: absolute;
+    top: 7890px;
+    left: 0;
+}
+.pic8{
+    position: absolute;
+    top: 9625px;
+    left: 0;
+}
+.pic9{
+    position: absolute;
+    top: 10300px;
+    left: 0;
+}
+.pic10{
+    position: absolute;
+    top: 12100px;
+    left: 0;
+}
+.pic11{
+    position: absolute;
+    top: 13600px;
+    left: 0;
 }
